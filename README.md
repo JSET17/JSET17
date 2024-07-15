@@ -28,7 +28,7 @@ I am constantly looking for opportunities to learn and improve my skills.
           
 - Frontend
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    <img src="https://skillicons.dev/icons?i=js"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  
@@ -46,11 +46,13 @@ I am constantly looking for opportunities to learn and improve my skills.
         alt="sqlserver" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"
+        alt="sqlite" width="40" height="40"/>
 </p>
 
 - Tools
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+    <img src="https://skillicons.dev/icons?i=postman"
         alt="postman" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=github"
         alt="github" width="40" height="40"/>
@@ -58,8 +60,12 @@ I am constantly looking for opportunities to learn and improve my skills.
 
 - IDE'S
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"
+        alt="netbeans" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9a/20200830031621%21Visual_Studio_Code_1.35_icon.svg"
         alt="vscode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"
+        alt="codeblocks" width="40" height="40"/>
 </p>
 
 <br>
@@ -74,7 +80,7 @@ I am constantly looking for opportunities to learn and improve my skills.
           alt="instagram" height="30" width="40" />
       </a>
       <a href="" target="blank">
-          <img align="center" src="https://www.svgrepo.com/show/452123/twitter.svg"
+          <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
           alt="twitter" height="30" width="40" />
       </a>
       <a href="" target="blank">
