@@ -5,8 +5,7 @@
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
-<br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JSET17&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 I am a Software Development Technology student at Universidad del Valle.
 I am passionate about the world of technology and the development of information systems and applications that facilitate processes and information management.
