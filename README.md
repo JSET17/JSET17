@@ -77,15 +77,15 @@ I am constantly looking for opportunities to learn and improve my skills.
       </a>
       <a href="" target="blank">
           <img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg"
-          alt="instagram" height="30" width="40"/> </a> <a href="https://www.instagram.com/jset.17?fbclid=IwZXh0bgNhZW0CMTAAAR0PEyjap1kJbE0dAbMkVyYaBqSQJsigxz85PRRq2ghcLda9rFAQ4I7A8Ik_aem_fmnkS-9TBTTSF9Omer47IQ" target="_blank" rel="noreferrer">
+          alt="instagram" height="30" width="40"/> </a> <a href="" target="_blank" rel="noreferrer">
       </a>
       <a href="" target="blank">
           <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
-          alt="twitter" height="30" width="40"/> </a> <a href="https://x.com/1996_jsebastian?fbclid=IwZXh0bgNhZW0CMTAAAR1VG8sYLUhfY_VU-CAR3OYWseDMba7cS7NsL8M_VNqSYLhagNtZICD9SK0_aem_a0rq5lpnXI5XB7AlIF_NOw" target="_blank" rel="noreferrer">
+          alt="twitter" height="30" width="40"/> </a> <a href="" target="_blank" rel="noreferrer">
       </a>
       <a href="" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="facebook" height="30" width="40"/> </a> <a href="https://www.facebook.com/profile.php?id=61556172037958" target="_blank" rel="noreferrer">
+          alt="facebook" height="30" width="40"/> </a> <a href="" target="_blank" rel="noreferrer">
       </a>
     </p>
 </br>
