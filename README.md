@@ -11,7 +11,7 @@ I am a Software Development Technology student at Universidad del Valle.
 I am passionate about the world of technology and the development of information systems and applications that facilitate processes and information management.
 I am constantly looking for opportunities to learn and improve my skills.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 - Backend
 <p align="left">
@@ -68,7 +68,7 @@ I am constantly looking for opportunities to learn and improve my skills.
 </p>
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
     <p align="left">
       <a href="https://www.linkedin.com/in/juan-sebastián-escobar-tangarife-b215102b6/" target="blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -89,7 +89,7 @@ I am constantly looking for opportunities to learn and improve my skills.
     </p>
 </br>
 
-<h3>Statistical Data :</h3>
+<h3>Statistical Data</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="JSET17" bg_color=#808080/>
