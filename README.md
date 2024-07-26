@@ -91,14 +91,16 @@ I am constantly looking for opportunities to learn and improve my skills.
 
 <h3>Statistical Data</h3>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    <a href="https://github.com/JSET17"><img src="https://img.shields.io/github/languages/count/JSET17?color=0d1117&text_color=ffffff&layout=compact"
         alt="JSET17" bg_color=#808080/>
+    </a>
 </p>
 
 <br>
 
 <p>
-  <a href="https://github.com/JSET17"><img src="https://img.shields.io/github/languages/count/JSET17?color=brightgreen&style=flat-square" alt="JSET17's languages"></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+        alt="JSET17" bg_color=#808080/>
 </p>
 
 <br>
