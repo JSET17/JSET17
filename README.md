@@ -90,7 +90,6 @@ I am constantly looking for opportunities to learn and improve my skills.
 </br>
 
 <h3>Statistical Data</h3>
-
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="JSET17" bg_color=#808080/>
@@ -98,12 +97,14 @@ I am constantly looking for opportunities to learn and improve my skills.
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="JSET17" /></p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="JSET17" />
+</p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JSET17&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-       alt="JSET17" /></p>
-      
-
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JSET17&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+       alt="JSET17" />
+</p>
