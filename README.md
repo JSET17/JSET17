@@ -90,6 +90,13 @@ I am constantly looking for opportunities to learn and improve my skills.
 </br>
 
 <h3>Statistical Data</h3>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSET17&layout=pie&bg_color=0d1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="JSET17" bg_color=#808080/>
