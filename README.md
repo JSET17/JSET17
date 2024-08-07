@@ -19,13 +19,13 @@ I am constantly looking for opportunities to learn and improve my skills.
       alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40"/>-->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java" width="40" height="40"/>        
   </p>
           
-- Frontend
+<!-- - Frontend
 <p align="left">
     <img src="https://skillicons.dev/icons?i=js"
       alt="javascript" width="40" height="40"/>
@@ -37,22 +37,22 @@ I am constantly looking for opportunities to learn and improve my skills.
       alt="css3" width="40" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" 
       alt="boostrap" width="40" height="40"/>
-  </p>
+  </p>-->
 
-- Database
+<!-- - Database
 <p align="left">
      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
         alt="sqlserver" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"
-        alt="sqlite" width="40" height="40"/>
+        alt="sqlite" width="40" height="40"/>-->
 </p>
 
 - Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman"
-        alt="postman" width="40" height="40"/>
+    <!-- <img src="https://skillicons.dev/icons?i=postman"
+        alt="postman" width="40" height="40"/>-->
     <img src="https://skillicons.dev/icons?i=github"
         alt="github" width="40" height="40"/>
 </p>
